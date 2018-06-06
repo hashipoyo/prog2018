@@ -1,0 +1,14 @@
+#include<stdio.h>
+
+void main(void)
+{
+	float x, a,b;
+	
+	printf("â~ÇÃîºåa x=");
+	scanf("%f",&x);
+	
+	a=3.14;
+	b=x*x*a;
+	
+	printf("â~ÇÃñ êœÇÕ%f \n",b);
+}
